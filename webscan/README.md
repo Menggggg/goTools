@@ -10,5 +10,6 @@
 
 > 结果会保存在 result 目录下
 
+![](https://raw.githubusercontent.com/yuyan-sec/goTools/master/webscan/1.png)
 
 > 参考：https://github.com/broken5/WebAliveScan
